@@ -1,11 +1,11 @@
 [Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](ubicacion.md) . [Contacto](./contacto.md
 
-## nosotros
+## Nosotros
 
-Esta empresa lleva mas de 5 años dando servio a clientes que tienen problemas o requieren algun mantenimiento a su PC,impresora,monitores, y busca dar los mejores servicios del mundo y asi como ganar su confianza igual contamos con servicio presencial hasta la puerta de su casa o a distrancia, contamos tambien con local 
+**_Esta empresa lleva mas de 5 años dando servio a clientes que tienen problemas o requieren algun mantenimiento a su PC,impresora,monitores, y busca dar los mejores servicios del mundo y asi como ganar su confianza igual contamos con servicio presencial hasta la puerta de su casa o a distrancia, contamos tambien con local_** 
 
-MISION: Dar el mejor servicio a nuestros clientes hasta que quedebn satisfechos con el cuidado de su PC 
+>_MISION: Dar el mejor servicio a nuestros clientes hasta que quedebn satisfechos con el cuidado de su PC_
 
-VISION: Como empresa me gustaria dar un mejor servicio a los clientes o usuarios y tener los mejores equipos, los mejores tecnicos para nuetra empresa eres importante ya 
+>_VISION: Como empresa me gustaria dar un mejor servicio a los clientes o usuarios y tener los mejores equipos, los mejores tecnicos para nuetra empresa eres importante_ ya 
 
-VALORES: Ganarnos la confianza de nuestros clientes y que confien en nuestro trabajo 
+>_VALORES: Ganarnos la confianza de nuestros clientes y que confien en nuestro trabajo_
