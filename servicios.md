@@ -11,4 +11,7 @@
 
 **_Limpieza De PC:_** La limpieza de PC nos premitira que nuetr computadora mejore su rendimiento y mejor desplazamiento de aire en el ventilador y permitira que nuetra computadora no se trabe, ni se alente
 
+**_Mantenimiento Presencial:_** garantiza al cliente completa disponibilidad de técnicos en los horarios establecidos en el contrato de prestación de servicios. Hay un diálogo personalizado donde el personal técnico puede explicar paso a paso el procedimiento que debe realizarse para solventar el problema
 
+
+**_Mantenimiento a Distancia:_** de equipos que puede realizarse a través de internet, de forma remota y segura, donde un técnico soluciona los problemas que presenta el servidor, la pc o notebook.
