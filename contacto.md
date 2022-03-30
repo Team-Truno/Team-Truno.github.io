@@ -8,5 +8,7 @@ Nombre:<input type="text" name="name"><br>
 Apellido:<input type="text" name="apellidos"><br>
 E-mail: <input type="text" name="email"><br>
 No. Telefono:<input type="text" name="no.telefono"><br>
+<label for="vol">Calificacion (del 1 al 10):</label>
+ 
 <input type="submit">
 </form>
