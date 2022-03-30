@@ -10,7 +10,7 @@ E-mail: <input type="text" name="email"><br>
 No. Telefono:<input type="text" name="no.telefono"><br>
 <label for="vol">Calificacion (del 1 al 10):
   <input type="range" id="vol" name="vol" min="0" max="50">
-  <input type="submit" value="Submit">
+
  
 <input type="submit">
 </form>
