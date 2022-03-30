@@ -4,7 +4,9 @@
 ## CONTACTO
 
 <form action="https://formspree.io/f/mgedlkdo" method="post">
-Name: <input type="text" name="name"><br>
+Nombre:<input type="text" name="name"><br>
+Apellido:<input type="text" name="apellidos"><br>
 E-mail: <input type="text" name="email"><br>
+No. Telefono:<input type="text" name="no.telefono"><br>
 <input type="submit">
 </form>
